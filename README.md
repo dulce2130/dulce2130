@@ -41,7 +41,7 @@ detalles de implementación.
 
 **Herramientas y otras tecnologías**
 
-`Figma` `WordPress` `Laravel` `Docker` `Git` `Canva`
+`Figma` `WordPress` `Git` `Canva`
 
 ---
 
