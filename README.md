@@ -1,74 +1,68 @@
 
 <!-- ✦ PRESENTACIÓN -->
 
+<img
+  align="right"
+  width="260"
+  src="./orbita-github.gif"
+  alt="Órbita animada DG"
+/>
+
 <h2>Hola, soy Dulce. ✦</h2>
 
 <p>
-  Ingeniera en Sistemas Computacionales, con interés en crear
-  experiencias digitales donde el diseño y la tecnología
-  trabajen juntos.
+  Ingeniera en Sistemas Computacionales.
+  Me interesa crear experiencias digitales donde el
+  diseño, la tecnología y la usabilidad se encuentren.
 </p>
 
-<!-- ✦ TEXTO ANIMADO -->
+**Frontend · Diseño web · UX/UI**
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3500&pause=1200&color=C4B5FD&width=650&height=45&lines=Desarrollo+web+con+intenci%C3%B3n.;Dise%C3%B1o+centrado+en+personas.;Ideas+que+se+convierten+en+experiencias."
-  />
-  <img
-    alt="Desarrollo web, diseño y experiencias digitales"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3500&pause=1200&color=6547B4&width=650&height=45&lines=Desarrollo+web+con+intenci%C3%B3n.;Dise%C3%B1o+centrado+en+personas.;Ideas+que+se+convierten+en+experiencias."
-  />
-</picture>
+<br clear="both">
 
 ---
 
 ### ✦ Lo que hago
 
 Me gusta encontrar soluciones claras a problemas complejos,
-cuidando tanto la experiencia de quien utiliza un producto
-como los detalles de su implementación.
+cuidando tanto la experiencia de las personas como los
+detalles de implementación.
 
-- **Frontend:** interfaces responsivas, funcionales y accesibles.
-- **Diseño web:** estructura, identidad visual y usabilidad.
+- **Frontend:** interfaces responsivas y funcionales.
+- **Diseño web:** identidad visual, estructura y navegación.
 - **UX/UI:** experiencias intuitivas y centradas en las personas.
-- **Desarrollo:** integración de herramientas y tecnologías para llevar ideas a productos reales.
+- **Desarrollo:** integración de tecnologías para convertir ideas en productos digitales.
 
 ### ✦ Tecnologías y herramientas
 
 **Desarrollo web**
 
-![Astro](https://img.shields.io/badge/Astro-292B43?style=flat-square&logo=astro&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-292B43?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-292B43?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-292B43?style=flat-square&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-292B43?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-292B43?style=flat-square&logo=css&logoColor=white)
+`Astro` `TypeScript` `JavaScript` `React` `HTML` `CSS`
 
 **Herramientas y otras tecnologías**
 
-![Figma](https://img.shields.io/badge/Figma-46406B?style=flat-square&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-46406B?style=flat-square&logo=wordpress&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-46406B?style=flat-square&logo=laravel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-46406B?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-46406B?style=flat-square&logo=git&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-46406B?style=flat-square&logo=canva&logoColor=white)
+`Figma` `WordPress` `Laravel` `Docker` `Git` `Canva`
 
 ---
 
 ### ✦ Algunos proyectos
 
-**Galerías Oaxaca Suites**  
-Sitio web bilingüe desarrollado con WordPress, enfocado en una experiencia de navegación clara y visual.
+**Galerías Oaxaca Suites**
 
-**Catálogo Digital**  
-Plataforma de catálogo y pedidos por WhatsApp, con landing en Astro y arquitectura de servicios.
+Sitio web bilingüe desarrollado con WordPress, enfocado
+en una experiencia de navegación clara y visual.
 
-**Prueba EDI**  
-Experiencia web informativa desarrollada con Astro, priorizando la organización y claridad del contenido.
+**Catálogo Digital**
 
-> Más proyectos y detalles de mi trabajo en mi portafolio.
+Plataforma de catálogo y pedidos por WhatsApp,
+con landing en Astro y arquitectura de servicios.
+
+**Prueba EDI**
+
+Experiencia web informativa desarrollada con Astro,
+priorizando la organización y claridad del contenido.
+
+---
 
 ### ✦ Actualmente explorando
 
@@ -81,6 +75,6 @@ Experiencia web informativa desarrollada con Astro, priorizando la organización
 
 ### ✦ Exploremos nuevas ideas
 
-[![Portafolio](https://img.shields.io/badge/VER_MI_PORTAFOLIO-735EB5?style=for-the-badge&logo=astro&logoColor=white)](https://dulce2130.github.io/portfolio/)
+**[VER MI PORTAFOLIO ↗](https://dulce2130.github.io/portfolio/)**
 
 <sub>Diseño, código y un poquito de curiosidad. ✦</sub>
