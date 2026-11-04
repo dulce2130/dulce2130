@@ -45,25 +45,6 @@ detalles de implementación.
 
 ---
 
-### ✦ Algunos proyectos
-
-**Galerías Oaxaca Suites**
-
-Sitio web bilingüe desarrollado con WordPress, enfocado
-en una experiencia de navegación clara y visual.
-
-**Catálogo Digital**
-
-Plataforma de catálogo y pedidos por WhatsApp,
-con landing en Astro y arquitectura de servicios.
-
-**Prueba EDI**
-
-Experiencia web informativa desarrollada con Astro,
-priorizando la organización y claridad del contenido.
-
----
-
 ### ✦ Actualmente explorando
 
 - Accesibilidad y buenas prácticas de UX/UI.
