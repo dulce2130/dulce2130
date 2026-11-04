@@ -1,14 +1,14 @@
 
 <!-- ✦ PRESENTACIÓN -->
 
-<img
-  align="right"
-  width="260"
-  src="./orbita-github.gif"
-  alt="Órbita animada DG"
-/>
+<p align="center">
+  <img
+    src="./encabezado-dulce.gif"
+    width="960"
+    alt="Hola, soy Dulce. Diseño, desarrollo y UX/UI."
+  />
+</p>
 
-<h2>Hola, soy Dulce. ✦</h2>
 
 <p>
   Ingeniera en Sistemas Computacionales.
